@@ -1,0 +1,57 @@
+/* public/css/styles.css */
+
+/* Optional: Add general styling for the form container */
+.container mt-4 {
+    /* Add your styling properties */
+    margin-top: 20px;
+}
+
+/* Style for the "Create a New Blog Post" heading */
+h2 {
+    /* Add your styling properties */
+    color: #333;
+}
+
+/* Style for form labels */
+label {
+    /* Add your styling properties */
+    font-weight: bold;
+}
+
+/* Style for form input and textarea */
+.form-control {
+    /* Add your styling properties */
+    width: 100%;
+    /* Add any other properties you want to customize */
+}
+
+/* Style for the "Create new Features" button */
+.btn-primary {
+    /* Add your styling properties */
+    background-color: #007bff;
+    color: #fff;
+    /* Add any other properties you want to customize */
+}
+
+/* Style for the Feature dropdown */
+#feature {
+    /* Add your styling properties */
+    width: 100%;
+}
+
+/* Optional: Style for the image input */
+#image {
+    /* Add your styling properties */
+    width: 100%;
+}
+
+/* public/css/styles.css */
+
+/* Style for small-width form */
+.small-width-form .form-control {
+    width: 70%; /* Adjust the width as needed */
+}
+
+.small-width-form select.form-control {
+    width: 70%; /* Adjust the width as needed */
+}
